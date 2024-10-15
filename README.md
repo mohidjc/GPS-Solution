@@ -47,8 +47,8 @@ timestamp,longitude,latitude,elevation
 
 ```bash
 timestamp,longitude,latitude,elevation
-2024-01-01T00:00:00Z,lon1,lat1,elev1
-2024-01-01T00:01:00Z,lon2,lat2,elev2
+2024-01-01T00:00:00Z,-120.12345,35.12345,150
+2024-01-01T00:01:00Z,-120.12350,35.12350,160
 ...
 ```
 
